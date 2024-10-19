@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=SteavenLinux
+Description=SteavenLinux sddm Theme
+Author=OmarHanyKasban
+License=GPL 3+
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/SteavenLinux
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=omarhanykasban706@gmail.com
+Theme-Id=SteavenLinux
+QtVersion=6
